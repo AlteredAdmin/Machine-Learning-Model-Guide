@@ -1,7 +1,8 @@
 # Machine-Learning-Model-Guide
 A simple Ground up guide to create a Machine Learning Model, that can be used to find and click images on screen. 
 
-## Warning this is a work in progress. Once its done i will remove this line!
+## Warning 
+This is a work in progress. Once its done i will remove this line!
 
 ## Introduction
 There are several steps to training a machine learning model to find and click images on a computer screen:
